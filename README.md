@@ -1,6 +1,8 @@
 # mosh-game-hub
 
-A clone of the Game Hub website - a type-along tutorial app as part of [Mosh's React 18 course](https://codewithmosh.com/p/ultimate-react-part1)
+A clone of the Game Hub website - a type-along tutorial app as part of [Mosh's React 18 course](https://codewithmosh.com/p/ultimate-react-part1).
+
+Live version [here](https://iankulin.github.io/mosh-game-hub/).
 
 ## Stack
 * React/Typescript/Vite
